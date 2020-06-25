@@ -2,7 +2,8 @@
 
 🔥 This is a mock Recipes page
 ### Technical:
-  + ReactJS - Hook,
+  + ReactJS - Hook, Redux
+  + Ant design
   + Compiler: Babel
   + Unitest: Jest, Enzyme
   + Bundler: Webpack
